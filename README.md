@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @laetuz
+- 👋 Hi, I’m Martin!
 - 👀 I’m interested in developing mobile apps
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on future development
-- 📫 DM me on instagram @ryo_fh
+- 📫 DM me on instagram @martin_shit for future project and collaborations.
 
 <!---
 laetuz/laetuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
