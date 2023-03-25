@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">An Android Developer with 1 year of experience. 📱</h3>
+<h3 align="center">Modern Android Developer📱</h3>
 
 <!-- - 🔭 I’m currently working on [Neotica](https://neotica.id) -->
 
