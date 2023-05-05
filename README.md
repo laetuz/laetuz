@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on [Neotica](https://neotica.id) -->
 
-- 🌱 I’m currently learning **Android Development in Bangkit Academy.**
+- 🌱 I’m currently learning **Android Development at Bangkit Academy.**
 
 - 📝 I regularly write articles on [https://medium.com/@laetuzg](https://medium.com/@laetuzg)
 
