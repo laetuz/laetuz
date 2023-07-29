@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">Modern Android Developer📱</h3>
 
-🔭 I’m currently building [Neotica](https://neotica.id) a platform that contains a curated lists of all of my study in Android development.
+🔭 I’m currently building [Neotica](https://neotica.id), a platform that contains a curated lists of all of my study in Android development.
 
 - 🌱 I’m constantly learning about mobile development, especially Android native with Kotlin. And recently i started to begin learning on iOS development with Swift as well.
 
