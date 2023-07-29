@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">Modern Android Developer📱</h3>
 
-<!-- - 🔭 I’m currently working on [Neotica](https://neotica.id) -->
+🔭 I’m currently building [Neotica](https://neotica.id) a platform that contains a curated lists of all of my study in Android development.
 
-- 🌱 I’m currently learning **Android Development at Bangkit Academy.**
+- 🌱 I’m constantly learning about mobile development, especially Android native with Kotlin. And recently i started to begin learning on iOS development with Swift as well.
 
-- 📝 I regularly write articles on [https://medium.com/@laetuzg](https://medium.com/@laetuzg)
+- 📝 I regularly write articles on [https://medium.com/@laetuzg](https://medium.com/@laetuzg) 
 
 - 💬 Ask me about **Kotlin, Android Development, and Mobile in general (I'm a phone geek!)**
 
