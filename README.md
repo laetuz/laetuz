@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">Modern Android Developer📱</h3>
+<h3 align="center">Native Mobile Developer📱</h3>
 
-🔭 I’m currently building [Neotica](https://neotica.id), a platform that contains a curated lists of all of my study in Android development.
-
-- 🌱 I’m constantly learning about mobile development, especially Android native with Kotlin. And recently i started to begin learning on iOS development with Swift as well.
+- 🌱 I’m constantly learning about mobile development, especially Android native with Kotlin and iOS development with Swift as well.
 
 - 📝 I regularly write articles on [https://medium.com/@laetuzg](https://medium.com/@laetuzg) 
 
-- 💬 Ask me about **Kotlin, Android Development, and Mobile in general (I'm a phone geek!)**
+- 💬 Ask me about **Kotlin, Android Development, iOS Development and Mobile in general (I'm a phone geek!)**
+  
+- 🔭 I’m currently building [Neotica](https://neotica.id), a platform that contains a curated lists of all of my study in mobile development, updated annually.
 
 - 📫 You can reach me on LinkedIn **https://linkedin.com/in/ryo-martin**
 
