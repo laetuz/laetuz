@@ -9,6 +9,7 @@ I run **Neotica** ([neotica.id](https://neotica.id)), a digital studio focused o
 
 #### 🕰️ Retro Android Preservation (SDK 3 – 21)
 * 📦 **[HoloMarket](https://github.com/laetuz/HoloMarket)** & **[oldmarket](https://github.com/laetuz/oldmarket)** — 3rd-party Android app store for legacy devices supporting back to Android 1.5 (Cupcake / SDK 3), paired with **[Neostore-Admin](https://github.com/laetuz/Neostore-Admin)**.
+* 🎵 **[Orpheum](https://github.com/laetuz/Orpheum-Legacy)** — Music streaming app for legacy devices, a legacy client for Orpheum Music Service. (SDK 3–21).
 * 🛒 **[NeoMart](https://github.com/laetuz/NeoMart)** — E-commerce marketplace emulating the early 2010s Android experience (SDK 7–21). [STILL UNDER MAINTENANCE]
 * 🧱 **[NeoLegacyTemplate](https://github.com/laetuz/NeoLegacyTemplate)** — Project template configured for building targeting legacy Android SDKs.
 
